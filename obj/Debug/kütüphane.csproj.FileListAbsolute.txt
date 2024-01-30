@@ -1,0 +1,8 @@
+C:\Users\melih\OneDrive\Desktop\lib\kütüphane\kütüphane\bin\Debug\kütüphane.exe.config
+C:\Users\melih\OneDrive\Desktop\lib\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+C:\Users\melih\OneDrive\Desktop\lib\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+C:\Users\melih\OneDrive\Desktop\lib\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.AssemblyReference.cache
+C:\Users\melih\OneDrive\Desktop\lib\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\melih\OneDrive\Desktop\lib\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\melih\OneDrive\Desktop\lib\kütüphane\kütüphane\obj\Debug\kütüphane.exe
+C:\Users\melih\OneDrive\Desktop\lib\kütüphane\kütüphane\obj\Debug\kütüphane.pdb
